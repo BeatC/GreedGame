@@ -1,6 +1,6 @@
 module DiceGame
-  require './player'
-  require './game'
+  require './greed_game/player'
+  require './greed_game/game'
 
   class Application
     def Application.main
